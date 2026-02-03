@@ -1,0 +1,12 @@
+[General]
+FreeFloating=true
+historyBehavior=ImmediateCompletion
+
+[Plugins]
+baloosearchEnabled=true
+
+[Plugins][Favorites]
+plugins=krunner_dictionary,calculator,krunner_sessions,krunner_powerdevil,krunner_services,krunner_systemsettings,locations,krunner_appstream,unitconverter,krunner_placesrunner,baloosearch,org.kde.datetime,browserhistory
+
+[Runners][krunner_dictionary]
+triggerWord=d

@@ -1,0 +1,4 @@
+[KDE Partition Manager]
+backend=pmsfdiskbackendplugin
+firstRun=false
+treeLogColumnWidths=49,192,800

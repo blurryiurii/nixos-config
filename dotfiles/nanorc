@@ -1,0 +1,55 @@
+set autoindent
+set historylog
+set mouse
+set nohelp
+set nonewlines
+set constantshow
+set linenumbers
+set softwrap
+set tabsize 2
+set tabstospaces
+set zap
+set trimblanks
+set cutfromcursor
+
+# nano 5.8 color declarations:
+# white, black, blue, green, red,  cyan,  yellow, magenta, and normal
+# The name of the foreground color may be prefixed with bright.
+# bold and italic not supported
+set titlecolor brightwhite,magenta
+set keycolor white,blue
+set functioncolor normal,normal
+set numbercolor magenta,black
+set errorcolor brightwhite,red
+set selectedcolor green,white
+set stripecolor black,white
+set statuscolor white,magenta
+
+
+#include "/usr/share/nano/nanorc.nanorc"
+## Makefiles
+#include "/usr/share/nano/makefile.nanorc"
+## Cascading Style Sheets
+#include "/usr/share/nano/css.nanorc"
+## HTML
+#include "/usr/share/nano/html.nanorc"
+## PHP
+#include "/usr/share/nano/php.nanorc"
+## TeX
+#include "/usr/share/nano/tex.nanorc"
+## Patch
+#include "/usr/share/nano/patch.nanorc"
+## Manpages
+#include "/usr/share/nano/man.nanorc"
+## Perl
+#include "/usr/share/nano/perl.nanorc"
+## Python
+#include "/usr/share/nano/python.nanorc"
+## Ruby
+#include "/usr/share/nano/ruby.nanorc"
+## Java
+#include "/usr/share/nano/java.nanorc"
+## Bourne shell scripts
+#include "/usr/share/nano/sh.nanorc"
+## XML-type files
+#include "/usr/share/nano/xml.nanorc"

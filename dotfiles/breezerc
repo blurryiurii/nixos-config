@@ -1,0 +1,9 @@
+[Common]
+OutlineIntensity=OutlineOff
+ShadowSize=ShadowMedium
+
+[Style]
+MenuOpacity=90
+
+[Windeco]
+TitleAlignment=AlignLeft

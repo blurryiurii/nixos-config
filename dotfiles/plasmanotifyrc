@@ -1,0 +1,8 @@
+[Applications][org.gnome.Ptyxis]
+Seen=true
+
+[DoNotDisturb]
+WhenFullscreen=false
+
+[Notifications]
+PopupTimeout=6000
